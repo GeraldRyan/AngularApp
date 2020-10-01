@@ -1,0 +1,18 @@
+span{
+  font-weight: bold;
+  background: lightgray;
+  padding: .3rem .8rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.play-container{
+  padding: 3em;
+  border: 1px solid lightgray;
+  margin-bottom: 1rem;
+  input{
+    padding: 1em;
+    margin-bottom: 2em;
+  }
+
+}
